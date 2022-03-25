@@ -1,6 +1,6 @@
 # Scientific-Programming
 
-## Exercise 1
+## Exercises
 
 * Homework site:
 
